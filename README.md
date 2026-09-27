@@ -14,4 +14,10 @@ I spent years running consumer businesses where the truth was scattered across d
 
 Both are small, inspectable reference implementations with deterministic evals and stated limits, not production systems.
 
+### Also
+
+- **[Agent Skills](https://github.com/Kaagemusha/agent-skills)**
+
+  Small, model-agnostic skills for scoping work, checking evidence, pressure-testing plans, handing off, and explaining results.
+
 [antoine.nutu.net](https://antoine.nutu.net)
